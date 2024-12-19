@@ -1,2 +1,2 @@
 # DSVisual
-Data Structure Visualizations
+Data Structure Visualizations By Qt C++
